@@ -2,13 +2,13 @@
 
 [RxSwift 기초 스터디](https://www.notion.so/RxSwift-213ed9b3dab846cab19ff96c1afe21a4) 
 
-[](https://www.notion.so/38d215577ca247579bc162f84916b3a1) 
+[RxSwift 진행률](https://www.notion.so/38d215577ca247579bc162f84916b3a1)
 
-[](https://www.notion.so/1b976341546946f4a19199cae6c64889) 
+[RxSwift 스케쥴](https://www.notion.so/1b976341546946f4a19199cae6c64889)
 
-[](https://www.notion.so/073842b61a8c4ca8a7ce946cd9cb63a5) 
+[RxSwift 커리큘럼](https://www.notion.so/073842b61a8c4ca8a7ce946cd9cb63a5)
 
-[](https://www.notion.so/58d01393fdfa4eb5980fae1fef519b63) 
+[RxSwift 프로젝트 레포](https://www.notion.so/58d01393fdfa4eb5980fae1fef519b63) 
 
 ---
 
