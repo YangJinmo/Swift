@@ -12,7 +12,7 @@
 
 ---
 
-[1주차 - **RxSwift 개요**](https://www.notion.so/1-RxSwift-fd533d94631d47d1a266d9f5449f3a83)
+[1주차 - RxSwift 개요](https://www.notion.so/1-RxSwift-fd533d94631d47d1a266d9f5449f3a83)
 
 [2주차 - Observable, Subject](https://www.notion.so/2-Observable-Subject-06892840a04448528e426a962709a445)
 
