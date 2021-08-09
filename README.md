@@ -1,4 +1,4 @@
-# StudyRxSwift
+# RxSwift
 
 [RxSwift 기초 스터디](https://www.notion.so/RxSwift-213ed9b3dab846cab19ff96c1afe21a4) 
 
